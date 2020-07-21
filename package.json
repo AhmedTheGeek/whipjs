@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AhmedTheGeek/whipjs#readme",
   "dependencies": {
+    "execa": "^4.0.3",
+    "listr": "^0.14.3",
     "nconf": "^0.10.0",
     "prompts": "^2.3.2",
     "yargs": "^15.4.1"
