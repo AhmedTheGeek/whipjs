@@ -1,7 +1,7 @@
 {
   "name": "whipjs",
   "version": "1.0.0",
-  "description": "a NodeJS project template generator",
+  "description": "a super simple projects template creator/generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -36,5 +36,10 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
-  "keywords": []
+  "keywords": [
+    "generator",
+    "creator",
+    "template",
+    "dependencies"
+  ]
 }
