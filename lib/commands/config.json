@@ -1,0 +1,17 @@
+{
+  "ahmed": {
+    "name": "ahmed",
+    "dependencies": "",
+    "devDependencies": ""
+  },
+  "hussein": {
+    "name": "hussein",
+    "dependencies": "",
+    "devDependencies": ""
+  },
+  "expressapp": {
+    "name": "expressapp",
+    "dependencies": "morgan helmet cors",
+    "devDependencies": "nodemon"
+  }
+}
